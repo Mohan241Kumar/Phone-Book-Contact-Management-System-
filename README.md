@@ -3,7 +3,7 @@ Here is a well-structured **README.md** description for your **Contact Managemen
 
 ---
 
-# 📞 Contact Management System
+# Phone Book Contact Management System
 
 ## Overview
 
@@ -30,19 +30,19 @@ This project is a command-line utility designed to manage a limited set of conta
 
 ## Features
 
-* ✅ **Add Contact**
+* **Add Contact**
   Store a new contact (up to a maximum of 5).
 
-* 🔍 **Search Contact**
+*  **Search Contact**
   Search a contact by name and view details.
 
-* 🗑️ **Delete Contact**
+* **Delete Contact**
   Remove a contact by name.
 
-* 📄 **Display Contacts**
+*  **Display Contacts**
   View all saved contacts with complete details.
 
-* 💡 **Memory-Efficient**
+*  **Memory-Efficient**
   Uses linked list to store contact entries dynamically.
 
 ---
